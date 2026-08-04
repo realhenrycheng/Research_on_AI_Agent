@@ -1,0 +1,8 @@
+# 不上传大型本地基准数据
+/测试三/SpreadsheetBench-v2/
+/03_办公成果编辑/SpreadsheetBench2数据/
+
+# Office 临时锁文件
+~$*
+.~lock.*
+*.tmp
