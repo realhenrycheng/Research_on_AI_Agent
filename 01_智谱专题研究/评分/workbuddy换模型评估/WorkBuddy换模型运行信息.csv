@@ -1,0 +1,4 @@
+配置,模型或模式,总耗时,总耗时秒,额度消耗,上下文使用,上下文上限,使用比例,输出目录,备注
+HY3基线,HY3,14分53秒74,893.74,未记录,未记录,未记录,未记录,原始输出/WorkBuddy输出,主测试基线
+Auto模型,Auto + MAX,7分39秒48,459.48,170.98积分,150.5k,168.0k,89.58%,原始输出/workbuddy换模型测试/auto模型,Auto 模型且启用 MAX 模式
+DeepSeek V4 Flash,DeepSeek V4 Flash API + MAX,4分50秒40,290.40,未记录,142.2k,1000k,14.22%,原始输出/workbuddy换模型测试/DeepSeek_V4_Flash,API 模型且启用 MAX 模式
