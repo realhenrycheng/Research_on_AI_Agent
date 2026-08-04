@@ -1,0 +1,91 @@
+﻿Agent,事实编号,事实类别,事实陈述,原始来源名称,原始来源链接,核验判断,得分,核验说明,核验来源
+ChatGPT Work,F04,发布时间,智谱中文官网称 GLM-130B 于 2022 年 9 月开源。,智谱官网发展历程,https://www.zhipuai.cn/zh/about,部分正确,0.5,中文官网列为 2022 年 9 月，但官方国际页面列为 2022-08-20；未充分解释两个时间口径。,https://arxiv.org/abs/2210.02414
+ChatGPT Work,F08,发布时间,Z.ai company 页将 ChatGLM 发布日期列为 2023-03-15。,Z.ai company,https://z.ai/company,部分正确,0.5,官方公司页为 2023-03-15，技术报告常见口径为 2023-03-14；未提示日期冲突。,https://github.com/zai-org/ChatGLM-6B
+ChatGPT Work,F29,发布时间,Z.ai company 页将 GLM-4 发布时间列为 2024-01-25。,Z.ai company,https://z.ai/company,部分正确,0.5,公司页列 2024-01-25，而公开发布活动常见口径为 2024-01-16；应将里程碑与发布日分开。,https://github.com/zai-org/GLM-4
+ChatGPT Work,F45,发布时间,Z.ai 博客显示 GLM-4.7 发布于 2025-12-22。,Z.ai 博客,https://z.ai/blog/glm-4.7,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://z.ai/blog/glm-4.7
+ChatGPT Work,F51,发布时间,Z.ai 博客显示 GLM-5.2 发布于 2026-06-16。,Z.ai 博客,https://z.ai/blog/glm-5.2,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://z.ai/blog/glm-5.2；https://huggingface.co/zai-org/GLM-5.2
+ChatGPT Work,F06,参数口径,GLM-130B 是 130B 参数双语预训练模型。,HuggingFace papers,https://huggingface.co/papers/2210.02414,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://arxiv.org/abs/2210.02414
+ChatGPT Work,F11,参数口径,ChatGLM-6B README 称该模型有 6.2B 参数。,GitHub README,https://github.com/zai-org/ChatGLM-6B/blob/main/README_en.md,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/ChatGLM-6B
+ChatGPT Work,F17,参数口径,VisualGLM-6B HF 模型卡称语言模型基于 ChatGLM-6B 6.2B，整体模型 7.8B。,HuggingFace 模型卡,https://huggingface.co/zai-org/visualglm-6b,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/ChatGLM-6B
+ChatGPT Work,F38,参数口径,GLM-4.5 为 355B 总参数、32B 激活参数；GLM-4.5-Air 为 106B 总参数、12B 激活参数。,Z.ai 文档,https://docs.z.ai/guides/llm/glm-4.5,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://docs.z.ai/guides/llm/glm-4.5
+ChatGPT Work,F48,参数口径,GLM-5 文档称参数规模从 GLM-4.5 的 355B/32B 激活提升到 744B/40B 激活。,Z.ai 文档,https://docs.z.ai/guides/llm/glm-5,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://docs.z.ai/guides/llm/glm-5
+ChatGPT Work,F19,上下文长度,ChatGLM2-6B 将基座上下文从 ChatGLM-6B 的 2K 扩展到 32K。,GitHub README,https://github.com/zai-org/ChatGLM-6B/blob/main/README_en.md,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/ChatGLM2-6B
+ChatGPT Work,F34,上下文长度,GLM-4-9B-Chat 支持 128K，GLM-4-9B-Chat-1M 支持 1M，GLM-4V-9B 支持 8K。,GitHub GLM-4,https://github.com/zai-org/GLM-4,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/GLM-4
+ChatGPT Work,F43,上下文长度,GLM-4.6 将上下文窗口从 GLM-4.5 的 128K 扩展到 200K。,Z.ai 博客,https://z.ai/blog/glm-4.6,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://z.ai/blog/glm-4.6
+ChatGPT Work,F52,上下文长度,GLM-5.2 博客称其支持稳定 1M-token 上下文。,Z.ai 博客,https://z.ai/blog/glm-5.2,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://z.ai/blog/glm-5.2；https://huggingface.co/zai-org/GLM-5.2
+ChatGPT Work,F07,开源状态,GLM-130B 被官方描述为中国第一个开源千亿基座模型。,智谱官网发展历程,https://www.zhipuai.cn/zh/about,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://arxiv.org/abs/2210.02414
+ChatGPT Work,F12,开源状态,ChatGLM-6B 权重对学术研究开放，登记后允许免费商用。,GitHub README,https://github.com/zai-org/ChatGLM-6B/blob/main/README_en.md,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/ChatGLM-6B
+ChatGPT Work,F41,开源状态,GLM-4.5 和 GLM-4.5-Air 权重在 HuggingFace 和 ModelScope 开放。,Z.ai 博客,https://z.ai/blog/glm-4.5,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://docs.z.ai/guides/llm/glm-4.5
+ChatGPT Work,F55,开源状态,GLM-5.2 博客称其采用 MIT 开源许可证，权重可在 HuggingFace 和 ModelScope 获取。,Z.ai 博客,https://z.ai/blog/glm-5.2,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://z.ai/blog/glm-5.2；https://huggingface.co/zai-org/GLM-5.2
+ChatGPT Work,F03,Benchmark/评测,GLM 论文称在相同规模和数据下优于 BERT、T5、GPT，并能以单一模型处理多类任务。,ACL Anthology,https://aclanthology.org/2022.acl-long.26/,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://arxiv.org/abs/2103.10360
+ChatGPT Work,F20,Benchmark/评测,ChatGLM2-6B README 称较一代在 MMLU、C-Eval、GSM8K、BBH 分别提升 +23%、+33%、+571%、+60%。,GitHub README,https://github.com/zai-org/ChatGLM-6B/blob/main/README_en.md,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/ChatGLM2-6B
+ChatGPT Work,F25,Benchmark/评测,CodeGeeX2 README 称 HumanEval-X Python Pass@1 达 35.9%。,GitHub README,https://github.com/zai-org/ChatGLM-6B/blob/main/README_en.md,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://arxiv.org/abs/2103.10360
+ChatGPT Work,F44,Benchmark/评测,GLM-4.6 博客称 CC-Bench 对 Claude Sonnet 4 达 48.6% win rate，并比 GLM-4.5 少约 15% token。,Z.ai 博客,https://z.ai/blog/glm-4.6,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://z.ai/blog/glm-4.6
+ChatGPT Work,F46,Benchmark/评测,GLM-4.7 博客称 SWE-bench 73.8%、SWE-bench Multilingual 66.7%、Terminal Bench 2.0 41%。,Z.ai 博客,https://z.ai/blog/glm-4.7,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://z.ai/blog/glm-4.7
+ChatGPT Work,F54,Benchmark/评测,GLM-5.2 博客称 Terminal-Bench 2.1 为 81.0，SWE-bench Pro 为 62.1。,Z.ai 博客,https://z.ai/blog/glm-5.2,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://z.ai/blog/glm-5.2；https://huggingface.co/zai-org/GLM-5.2
+ChatGPT Work,F10,产品/API,ChatGLM-6B README 指向智谱开放平台，用于体验更大规模 GLM 商业模型。,GitHub README,https://github.com/zai-org/ChatGLM-6B/blob/main/README_en.md,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/ChatGLM-6B
+ChatGPT Work,F13,商业化/生态,ChatGLM-6B README 称 INT4 量化下只需约 6GB GPU 显存可部署。,GitHub README,https://github.com/zai-org/ChatGLM-6B/blob/main/README_en.md,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/ChatGLM-6B
+ChatGPT Work,F30,产品/API,BigModel 文档显示 GLM-4 支持 Function Call、上下文缓存、结构化输出和 MCP。,BigModel GLM-4 文档,https://docs.bigmodel.cn/cn/guide/models/text/glm-4,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/GLM-4
+ChatGPT Work,F02,能力升级,GLM 论文提出用自回归填空统一 NLU、条件生成和无条件生成。,ACL Anthology,https://aclanthology.org/2022.acl-long.26/,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://arxiv.org/abs/2103.10360
+ChatGPT Work,F40,能力升级,GLM-4.5 设计目标是统一推理、代码和 Agent 能力，并支持 Thinking 与 Non-Thinking 模式。,Z.ai 博客/文档,https://z.ai/blog/glm-4.5；https://docs.z.ai/guides/llm/glm-4.5,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://docs.z.ai/guides/llm/glm-4.5
+ChatGPT Work,F53,能力升级,GLM-5.2 引入 IndexShare 以降低 1M 上下文下每 token FLOPs。,Z.ai 博客,https://z.ai/blog/glm-5.2,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://z.ai/blog/glm-5.2；https://huggingface.co/zai-org/GLM-5.2
+TRAE Work,F001,发布时间,GLM-130B 于 2022 年 8 月发布模型和预训练细节。,ChatGLM 技术报告,https://arxiv.org/pdf/2406.12793,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://arxiv.org/abs/2210.02414
+TRAE Work,F006,发布时间,ChatGLM-6B 与 ChatGLM-130B 同日于 2023-03-14 开源/发布。,ChatGLM 技术报告,https://arxiv.org/pdf/2406.12793,部分正确,0.5,技术报告的 2023-03-14 与官方公司页 2023-03-15 存在一日口径差异，未标注。,https://github.com/zai-org/ChatGLM-6B
+TRAE Work,F023,发布时间,GLM-4(0116) 自 2024-01-16 起通过 GLM-4 API 开放。,ChatGLM 技术报告,https://arxiv.org/pdf/2406.12793,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/GLM-4
+TRAE Work,F048,发布时间,GLM-4.5 官网 Quick Facts 写明发布时间为 2025-07-28。,GLM-4.5 官网,https://www.glm45.com/,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://docs.z.ai/guides/llm/glm-4.5
+TRAE Work,F055,发布时间,GLM-4.5V 官网 Quick Facts 写明发布时间为 2025-08-11。,GLM-4.5V 官网,https://www.glm45.com/glm45v,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://docs.z.ai/guides/vlm/glm-4.5v
+TRAE Work,F002,参数口径,GLM-130B 是 130B 参数的中英双语预训练模型。,GLM-130B 论文,https://arxiv.org/pdf/2210.02414,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://arxiv.org/abs/2210.02414
+TRAE Work,F007,参数口径,ChatGLM-6B 具有 62 亿参数。,ChatGLM-6B GitHub,https://github.com/THUDM/ChatGLM-6B,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/ChatGLM-6B
+TRAE Work,F024,参数口径,GLM-4 的总参数量官方未披露。,ChatGLM 技术报告/开放平台文档,https://arxiv.org/pdf/2406.12793,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/GLM-4
+TRAE Work,F049,参数口径,GLM-4.5 技术报告披露 GLM-4.5 为 355B 总参数、32B 激活参数。,GLM-4.5 技术报告,https://arxiv.org/pdf/2508.06471,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://docs.z.ai/guides/llm/glm-4.5
+TRAE Work,F056,参数口径,GLM-4.5V 为 106B 总参数、12B 激活参数。,GLM-V 技术报告,https://arxiv.org/pdf/2507.01006v6,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://docs.z.ai/guides/vlm/glm-4.5v
+TRAE Work,F014,上下文长度,ChatGLM2-6B 将基座上下文从 2K 扩展到 32K，并在对话阶段使用 8K 上下文训练。,ChatGLM2-6B GitHub,https://github.com/THUDM/ChatGLM2-6B,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/ChatGLM2-6B
+TRAE Work,F019,上下文长度,ChatGLM3 系列开源了 8K、32K、128K 序列长度版本。,ChatGLM3 GitHub,https://github.com/THUDM/ChatGLM3,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/ChatGLM3
+TRAE Work,F025,上下文长度,GLM-4 与 GLM-4 All Tools 均支持 128K 上下文长度。,ChatGLM 技术报告,https://arxiv.org/pdf/2406.12793,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/GLM-4
+TRAE Work,F032,上下文长度,GLM-4-9B-Chat 支持 128K，上下文 1M 的 Chat-1M 为实验模型。,GLM-4 GitHub,https://github.com/THUDM/GLM-4,部分正确,0.5,1M 型号确实存在，但“实验模型”的限定缺乏所引官方仓库的直接支持。,https://github.com/zai-org/GLM-4
+TRAE Work,F003,开源状态,GLM-130B 公开了模型权重、代码、训练日志、相关工具包和经验。,GLM-130B 论文,https://arxiv.org/pdf/2210.02414,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://arxiv.org/abs/2210.02414
+TRAE Work,F009,开源状态,ChatGLM-6B 权重对学术研究完全开放，登记后允许免费商业使用。,ChatGLM-6B GitHub,https://github.com/THUDM/ChatGLM-6B,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/ChatGLM-6B
+TRAE Work,F053,开源状态,GLM-4.5 与 GLM-4.5-Air 以 MIT License 开源，并允许商业使用和二次开发。,GLM-4.5 GitHub,https://github.com/zai-org/GLM-4.5/,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://docs.z.ai/guides/llm/glm-4.5
+TRAE Work,F059,开源状态,GLM-4.5V 以 MIT License 开源。,GLM-4.5V 官网,https://www.glm45.com/glm45v,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://docs.z.ai/guides/vlm/glm-4.5v
+TRAE Work,F004,Benchmark/评测,GLM-130B 在 LAMBADA 零样本任务上达到 80.2%。,GLM-130B 论文,https://arxiv.org/pdf/2210.02414,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://arxiv.org/abs/2210.02414
+TRAE Work,F016,Benchmark/评测,ChatGLM2-6B 相比初代在 MMLU、C-Eval、GSM8K、BBH 上分别提升 23%、33%、571%、60%。,ChatGLM2-6B GitHub,https://github.com/THUDM/ChatGLM2-6B,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/ChatGLM2-6B
+TRAE Work,F028,Benchmark/评测,GLM-4 128K 在 LongBench-Chat 上为 87.3，与 GPT-4 Turbo 87.2、Claude 3 Opus 87.7 接近。,ChatGLM 技术报告,https://arxiv.org/pdf/2406.12793,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/GLM-4
+TRAE Work,F033,Benchmark/评测,GLM-4-9B 在 MMLU、GSM8K、HumanEval、C-Eval 上分别为 74.7、84.0、70.1、77.1。,ChatGLM 技术报告,https://arxiv.org/pdf/2406.12793,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/GLM-4
+TRAE Work,F047,Benchmark/评测,GLM-4-32B-0414 在 IFEval、BFCL-v3 Overall、TAU-Bench Retail 上分别为 87.6、69.6、68.7。,GLM-4 GitHub,https://github.com/THUDM/GLM-4,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/GLM-4
+TRAE Work,F052,Benchmark/评测,GLM-4.5 在 TAU-Bench、AIME24、SWE-bench Verified 上分别为 70.1%、91.0%、64.2%。,GLM-4.5 技术报告,https://arxiv.org/pdf/2508.06471,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://docs.z.ai/guides/llm/glm-4.5
+TRAE Work,F026,产品/API,GLM-4 All Tools 可自主选择网页浏览器、Python 解释器、文生图模型和用户自定义函数。,ChatGLM 技术报告,https://arxiv.org/pdf/2406.12793,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/GLM-4
+TRAE Work,F037,产品/API,GLM-4-Plus 的 API 价格为 5 元/百万 Tokens。,GLM-4 文档,https://docs.bigmodel.cn/cn/guide/models/text/glm-4,部分正确,0.5,价格类事实具有时效性，且所引页面不是本次核验截点的定价页。,https://github.com/zai-org/GLM-4
+TRAE Work,F054,产品/API,GLM-4.5 API 标准价格为输入 0.8 元/百万 Tokens、输出 2.0 元/百万 Tokens。,GLM-4.5 官网,https://www.glm45.com/,部分正确,0.5,价格类事实需要注明适用站点和日期；当前写法容易被理解为实时价格。,https://docs.z.ai/guides/llm/glm-4.5
+TRAE Work,F010,能力升级,ChatGLM-6B 支持 INT4 量化并可在最低 6GB 显存下推理。,ChatGLM-6B GitHub,https://github.com/THUDM/ChatGLM-6B,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/ChatGLM-6B
+TRAE Work,F020,能力升级,ChatGLM3-6B 原生支持工具调用、代码执行器和 Agent 任务。,ChatGLM3 GitHub,https://github.com/THUDM/ChatGLM3,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/ChatGLM3
+TRAE Work,F051,能力升级,GLM-4.5 同时支持 thinking mode 与 non-thinking mode。,GLM-4.5 技术报告,https://arxiv.org/pdf/2508.06471,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://docs.z.ai/guides/llm/glm-4.5
+WorkBuddy,F02,发布时间,GLM-130B 于 2022 年 9 月开源,智谱官网 About / CCF,https://www.zhipuai.cn/en/about,部分正确,0.5,官方公司页列 GLM-130B 为 2022-08-20；写成 2022 年 9 月未交代口径差异。,https://arxiv.org/abs/2210.02414
+WorkBuddy,F03,发布时间,ChatGLM-6B 于 2023-03-14 上线并开源,中国网 / icviews,http://szjj.china.com.cn/2023-11/27/content_42610516.html,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/ChatGLM-6B
+WorkBuddy,F06,发布时间,GLM-4 于 2024-01-16（智谱 DevDay）发布,中国科学报,https://news.sciencenet.cn/htmlnews/2024/1/516126.shtm,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/GLM-4
+WorkBuddy,F09,发布时间,GLM-4.5 于 2025-07-29 发布,智谱 docs.z.ai / 新浪,https://docs.z.ai/guides/llm/glm-4.5,部分正确,0.5,官方 Z.ai 博客发布日期为 2025-07-28，所写 7 月 29 日相差一天。,https://docs.z.ai/guides/llm/glm-4.5
+WorkBuddy,F13,发布时间,GLM-5.2 于 2026-06-17 上线并开源,央广网 / 科技日报,https://www.cnr.cn/jingji/ycbd/20260617/t20260617_527664392.shtml,部分正确,0.5,官方 Z.ai 博客发布日期为 2026-06-16，媒体报道为 6 月 17 日；应说明口径。,https://z.ai/blog/glm-5.2；https://huggingface.co/zai-org/GLM-5.2
+WorkBuddy,F14,参数口径,GLM-130B 总参数为 130B（中英双语稠密）,智谱官网 About,https://www.zhipuai.cn/en/about,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://arxiv.org/abs/2210.02414
+WorkBuddy,F15,参数口径,ChatGLM-6B 总参数为 6.2B,中国网 / 环球,http://szjj.china.com.cn/2023-11/27/content_42610516.html,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/ChatGLM-6B
+WorkBuddy,F18,参数口径,GLM-4.5 总参数 355B/激活 32B；GLM-4.5-Air 总参数 106B/激活 12B,智谱 docs.z.ai,https://docs.z.ai/guides/llm/glm-4.5,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://docs.z.ai/guides/llm/glm-4.5
+WorkBuddy,F20,参数口径,GLM-4.7 总参数 355B/激活 32B（MoE）,crossmodel 模型卡,https://www.crossmodel.ai/models/z-ai/glm-4-7,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://z.ai/blog/glm-4.7
+WorkBuddy,F22,参数口径,GLM-5.2 总参数官方未披露,综合（无官方披露）,https://zhipuai.cn/zh/research/161,错误,0,称 GLM-5.2 参数“官方未披露”不成立：官方 Hugging Face 模型卡显示模型规模约 753B。,https://z.ai/blog/glm-5.2；https://huggingface.co/zai-org/GLM-5.2
+WorkBuddy,F23,上下文长度,GLM-4 支持 128K 上下文（单次约 300 页）,中国科学报 / 网易,https://news.sciencenet.cn/htmlnews/2024/1/516126.shtm,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/GLM-4
+WorkBuddy,F25,上下文长度,GLM-4.5 / 4.5-Air 上下文 128K、最大输出 96K,智谱 docs.z.ai,https://docs.z.ai/guides/llm/glm-4.5,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://docs.z.ai/guides/llm/glm-4.5
+WorkBuddy,F27,上下文长度,GLM-4.7 上下文 200K、最大输出 128K,crossmodel 模型卡,https://www.crossmodel.ai/models/z-ai/glm-4-7,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://z.ai/blog/glm-4.7
+WorkBuddy,F28,上下文长度,GLM-5.2 支持 1M 无损上下文,科技日报 / 央广网,https://www.stdaily.com/web/gdxw/2026-06/17/content_533710.html,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://z.ai/blog/glm-5.2；https://huggingface.co/zai-org/GLM-5.2
+WorkBuddy,F34,开源状态,ChatGLM-6B 权重开源并支持消费级显卡本地部署,中国网,http://szjj.china.com.cn/2023-11/27/content_42610516.html,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/ChatGLM-6B
+WorkBuddy,F35,开源状态,GLM-4 权重未开源（闭源主力，API/产品开放）,综合,https://news.sciencenet.cn/htmlnews/2024/1/516126.shtm,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/GLM-4
+WorkBuddy,F36,开源状态,GLM-4-9B、GLM-4.5、GLM-4.5V、GLM-4.7、GLM-5.2 均权重开源（MIT 等）,各官方/媒体,https://github.com/zai-org/GLM-4.5,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://z.ai/blog/glm-5.2；https://huggingface.co/zai-org/GLM-5.2
+WorkBuddy,F37,开源状态,GLM-4-32B-0414 系列遵循 MIT License，完全开源且不限商用,亿欧 / 新浪财经,https://data.iyiou.com/intelligence/details/bc91c058b234ea220e28ccb64d1709ed,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/GLM-4
+WorkBuddy,F38,Benchmark/评测,GLM-4 的 MMLU 81.5，约为 GPT-4 的 94%,TechWeb,https://www.toutiao.com/article/7324619502505853492,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://github.com/zai-org/GLM-4
+WorkBuddy,F39,Benchmark/评测,GLM-4.5 在 12 项基准综合排名：中文文档称全球第三，英文文档称全球第二,docs.bigmodel vs docs.z.ai,https://docs.bigmodel.cn/cn/guide/models/text/glm-4.5,部分正确,0.5,已识别排名口径冲突，但“全球第二/第三”均属于官方阶段性评测结论，不宜直接并列为稳定事实。,https://docs.z.ai/guides/llm/glm-4.5
+WorkBuddy,F40,Benchmark/评测,GLM-4.5 的 SWE-bench Verified 优于 GPT-4.1 与 Gemini 2.5 Pro,新浪技术博客,https://finance.sina.cn/stock/jdts/2025-07-29/detail-inficwts9213194.d.html,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://docs.z.ai/guides/llm/glm-4.5
+WorkBuddy,F42,Benchmark/评测,GLM-4.5V 在 41/42 项公开视觉多模态基准达同级别开源 SOTA,上海证券报(41) / 官方卡(42),https://www.cnstock.com/commonDetail/484823,部分正确,0.5,41/42 项存在冲突，且原始引用以媒体为主；应回到官方模型卡逐项复核。,https://docs.z.ai/guides/vlm/glm-4.5v
+WorkBuddy,F44,Benchmark/评测,GLM-5.2 在 Artificial Analysis 综合 51 分，开源 SOTA、全球前三,中国日报 / 官方研究文,https://zhipuai.cn/zh/research/161,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://z.ai/blog/glm-5.2；https://huggingface.co/zai-org/GLM-5.2
+WorkBuddy,F45,Benchmark/评测,GLM-5.2 在 Code Arena 取得全球可用模型第一,科技日报 / 中国日报,https://www.stdaily.com/web/gdxw/2026-06/17/content_533710.html,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://z.ai/blog/glm-5.2；https://huggingface.co/zai-org/GLM-5.2
+WorkBuddy,F46,产品/API,智谱开放平台 bigmodel.cn 提供 OpenAI 兼容 API；z.ai 为国际站点,智谱文档,https://docs.bigmodel.cn/cn/guide/models/text/glm-4.5,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://arxiv.org/abs/2103.10360
+WorkBuddy,F47,产品/API,GLM-4-Flash-250414 完全免费；GLM-4-Air-250414 为 0.5 元/百万 tokens,bigmodel 定价页,https://www.bigmodel.cn/pricing,部分正确,0.5,定价属于高时效信息，未标注价格生效时间，不能直接作为 2026-08 的实时价格。,https://github.com/zai-org/GLM-4
+WorkBuddy,F48,产品/API,GLM-4.5 API 价格：docs.z.ai 记 $0.2/$1.1 每百万 tokens，bigmodel 记 ¥0.8/¥2.0 每百万 tokens,双官方文档,https://docs.z.ai/guides/llm/glm-4.5,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://docs.z.ai/guides/llm/glm-4.5
+WorkBuddy,F51,能力升级,GLM-4.5 首次在单一模型原生融合推理、编码、智能体（ARC）能力,新浪 / arXiv,https://arxiv.org/abs/2508.06471,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://docs.z.ai/guides/llm/glm-4.5
+WorkBuddy,F53,能力升级,GLM-4.7 引入三种思考模式（Interleaved/Preserved/Turn-level Thinking）,crossmodel 模型卡,https://www.crossmodel.ai/models/z-ai/glm-4-7,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://z.ai/blog/glm-4.7
+WorkBuddy,F55,能力升级,GLM-5.2 引入 effort level 思考档位与 IndexShare 稀疏注意力,智谱官方研究文,https://zhipuai.cn/zh/research/161,正确,1,核验来源直接支持该陈述，模型版本和事实口径基本清楚。,https://z.ai/blog/glm-5.2；https://huggingface.co/zai-org/GLM-5.2
