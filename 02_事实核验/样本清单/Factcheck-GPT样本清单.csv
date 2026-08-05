@@ -1,13 +1,13 @@
-"测试编号","基准测试","分层","源文件","源文件行号","任务摘要","备注"
-"FCB_001","Factcheck-GPT","句子可核验性","02_事实核验/Factcheck基准数据/Factcheck-GPT-main/subtasks/subtask1_sentence_checkworthiness.jsonl","201","Bulk analysis provides an average measurement of the entire sample, which can obscure important differences between individual cells.","正式样本"
-"FCB_002","Factcheck-GPT","句子可核验性","02_事实核验/Factcheck基准数据/Factcheck-GPT-main/subtasks/subtask1_sentence_checkworthiness.jsonl","131","Dan Jurafsky is a renowned professor of linguistics and computer science at Stanford University.","正式样本"
-"FCB_003","Factcheck-GPT","句子可核验性","02_事实核验/Factcheck基准数据/Factcheck-GPT-main/subtasks/subtask1_sentence_checkworthiness.jsonl","121","Ming Zhou is a senior researcher and research manager at Microsoft Research Asia.","正式样本"
-"FCB_004","Factcheck-GPT","句子可核验性","02_事实核验/Factcheck基准数据/Factcheck-GPT-main/subtasks/subtask1_sentence_checkworthiness.jsonl","292","To search for a document in Google Drive, you can click on the search bar at the top of the screen and type in ""Finance Forecast"" as the title of the document.","正式样本"
-"FCB_005","Factcheck-GPT","声明事实性","02_事实核验/Factcheck基准数据/Factcheck-GPT-main/subtasks/subtask4_claim_factuality.jsonl","195","The most cited NLP research paper is ""Attention Is All You Need"".","正式样本"
-"FCB_006","Factcheck-GPT","声明事实性","02_事实核验/Factcheck基准数据/Factcheck-GPT-main/subtasks/subtask4_claim_factuality.jsonl","629","To play an E major chord on a guitar, place your first finger on the first fret of the third string, second finger on the second fret of the fifth string, and t","正式样本"
-"FCB_007","Factcheck-GPT","声明事实性","02_事实核验/Factcheck基准数据/Factcheck-GPT-main/subtasks/subtask4_claim_factuality.jsonl","48","The strength of a neutron star’s magnetic field is not greater than that of a black hole.","正式样本"
-"FCB_008","Factcheck-GPT","声明事实性","02_事实核验/Factcheck基准数据/Factcheck-GPT-main/subtasks/subtask4_claim_factuality.jsonl","496","Ironworking was introduced to North Africa around 500 BCE.","正式样本"
-"FCB_009","Factcheck-GPT","文档级回答核验","02_事实核验/Factcheck基准数据/Factcheck-GPT-main/factcheck-GPT-benchmark.jsonl","50","Given this reference test, what is the daily recommended amount of magnesium for women in the U.S.?","正式样本"
-"FCB_010","Factcheck-GPT","文档级回答核验","02_事实核验/Factcheck基准数据/Factcheck-GPT-main/factcheck-GPT-benchmark.jsonl","52","Given these paragraphs about Multiomics, what is a typical advantage of single-cell multiomics versus bulk analysis?","正式样本"
-"FCB_011","Factcheck-GPT","文档级回答核验","02_事实核验/Factcheck基准数据/Factcheck-GPT-main/factcheck-GPT-benchmark.jsonl","8","I’ve read that the strength of a neutron star’s magnetic field is greater than any other found in the universe. Wouldn’t a supermassive black hole have a strong","正式样本"
-"FCB_012","Factcheck-GPT","文档级回答核验","02_事实核验/Factcheck基准数据/Factcheck-GPT-main/factcheck-GPT-benchmark.jsonl","85","How do I search for a document that I created in Google Drive? I think the document starts with the title Finance Forecast","正式样本"
+测试编号,基准测试,分层,源文件,源文件行号,任务摘要,备注
+FCB_001,Factcheck-GPT,句子可核验性,02_事实核验/Factcheck基准数据/Factcheck-GPT-main/subtask1_sentence_checkworthiness.jsonl,180,任务包中提供单句待判断文本,正式样本；按随机种子20260804分层平衡抽样
+FCB_002,Factcheck-GPT,句子可核验性,02_事实核验/Factcheck基准数据/Factcheck-GPT-main/subtask1_sentence_checkworthiness.jsonl,181,任务包中提供单句待判断文本,正式样本；按随机种子20260804分层平衡抽样
+FCB_003,Factcheck-GPT,句子可核验性,02_事实核验/Factcheck基准数据/Factcheck-GPT-main/subtask1_sentence_checkworthiness.jsonl,10,任务包中提供单句待判断文本,正式样本；按随机种子20260804分层平衡抽样
+FCB_004,Factcheck-GPT,句子可核验性,02_事实核验/Factcheck基准数据/Factcheck-GPT-main/subtask1_sentence_checkworthiness.jsonl,98,任务包中提供单句待判断文本,正式样本；按随机种子20260804分层平衡抽样
+FCB_005,Factcheck-GPT,声明事实性,02_事实核验/Factcheck基准数据/Factcheck-GPT-main/subtask4_claim_factuality.jsonl,440,任务包中提供单句待判断文本,正式样本；按随机种子20260804分层平衡抽样
+FCB_006,Factcheck-GPT,声明事实性,02_事实核验/Factcheck基准数据/Factcheck-GPT-main/subtask4_claim_factuality.jsonl,443,任务包中提供单句待判断文本,正式样本；按随机种子20260804分层平衡抽样
+FCB_007,Factcheck-GPT,声明事实性,02_事实核验/Factcheck基准数据/Factcheck-GPT-main/subtask4_claim_factuality.jsonl,180,任务包中提供单句待判断文本,正式样本；按随机种子20260804分层平衡抽样
+FCB_008,Factcheck-GPT,声明事实性,02_事实核验/Factcheck基准数据/Factcheck-GPT-main/subtask4_claim_factuality.jsonl,441,任务包中提供单句待判断文本,正式样本；按随机种子20260804分层平衡抽样
+FCB_009,Factcheck-GPT,文档级回答核验,02_事实核验/Factcheck基准数据/Factcheck-GPT-main/factcheck-GPT-benchmark.jsonl,50,任务包中提供用户问题与待核验回答,正式样本；按随机种子20260804分层平衡抽样
+FCB_010,Factcheck-GPT,文档级回答核验,02_事实核验/Factcheck基准数据/Factcheck-GPT-main/factcheck-GPT-benchmark.jsonl,52,任务包中提供用户问题与待核验回答,正式样本；按随机种子20260804分层平衡抽样
+FCB_011,Factcheck-GPT,文档级回答核验,02_事实核验/Factcheck基准数据/Factcheck-GPT-main/factcheck-GPT-benchmark.jsonl,8,任务包中提供用户问题与待核验回答,正式样本；按随机种子20260804分层平衡抽样
+FCB_012,Factcheck-GPT,文档级回答核验,02_事实核验/Factcheck基准数据/Factcheck-GPT-main/factcheck-GPT-benchmark.jsonl,85,任务包中提供用户问题与待核验回答,正式样本；按随机种子20260804分层平衡抽样

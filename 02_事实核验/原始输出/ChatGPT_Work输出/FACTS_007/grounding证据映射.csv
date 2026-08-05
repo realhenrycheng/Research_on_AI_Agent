@@ -1,0 +1,5 @@
+﻿测试编号,编号,关键结论,段落编号,英文原文引句,判断,材料边界说明
+FACTS_007,G01,"训练受版权保护作品是否构成合理使用取决于 17 U.S.C. § 107 下的四个法定因素。",P02,"Whether or not copying constitutes fair use depends on four statutory factors under 17 U.S.C. § 107",已由材料支持,无
+FACTS_007,G02,"若训练目的被认为是转换性用途、用于创建有用的生成式 AI 系统，可能支持合理使用。",P02,"OpenAI argues its purpose is “transformative” as opposed to “expressive” because the training process creates “a useful generative AI system.”",已由材料支持,无
+FACTS_007,G03,"若复制品不向公众提供、仅用于训练程序，可能支持合理使用。",P02,"the copies are not made available to the public but are used only to train the program",已由材料支持,无
+FACTS_007,G04,"法院可能会考察是否具有转换性、作品性质、复制是否超过训练所需，以及 AI 程序是否构成市场替代品。",P02,"whether the use was “transformative”... whether the defendant copied more than needed... whether the AI program would constitute a “market substitute”",已由材料支持,无

@@ -1,0 +1,4 @@
+﻿测试编号,编号,关键结论,段落编号,英文原文引句,判断,材料边界说明
+FACTS_004,G01,W. I. King 与美国关联并对收入和资本财富的分配做了重要的统计汇编与分析,P01,"For the United States, Professor W. I. King and the National Bureau of Economic Research, and for England, Sir Josiah Stamp have made and analyzed important statistical compilations on the amount and distribution of income and capital wealth by income groups and social classes.",已由材料支持,材料将 King 与 the United States 关联但未明确使用 American 一词标注国籍
+FACTS_004,G02,King 著有关于美国人民财富与收入的著作,P01,"King, W. I., The Wealth and Income of the People of the United States, New York, The Macmillan Co., 1915.",已由材料支持,无
+FACTS_004,G03,John Rae 在分配理论方面贡献突出但材料未指明其为美国人,P01,"On the theory of distribution, especially the role of interest in distribution, John Rae seems to have contributed more than any other writer.",已由材料支持,材料未指明 Rae 的国籍因此无法判断其是否为美国人

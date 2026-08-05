@@ -1,0 +1,9 @@
+测试编号,编号,关键结论,段落编号,英文原文引句,判断,材料边界说明
+FACTS_007,G01,合理使用取决于17 U.S.C. § 107规定的四个法定因素,P22,"Whether or not copying constitutes fair use depends on four statutory factors under 17 U.S.C. § 107",已由材料支持,无
+FACTS_007,G02,第一因素:OpenAI主张使用目的具有转换性而非表达性因训练创造了有用的生成式AI系统,P23,"OpenAI argues its purpose is ""transformative"" as opposed to ""expressive"" because the training process creates ""a useful generative AI system.""",已由材料支持,无
+FACTS_007,G03,第三因素:OpenAI主张副本不向公众公开仅用于训练程序,P23,"the copies are not made available to the public but are used only to train the program",已由材料支持,无
+FACTS_007,G04,OpenAI援引The Authors Guild v. Google案该案认定复制整本书创建可搜索数据库构成合理使用,P23,"Google's copying of entire books to create a searchable database that displayed excerpts of those books constituted fair use",已由材料支持,无
+FACTS_007,G05,第四因素:若AI生成与原作竞争的相似作品则可能不利于合理使用,P24,"training AI programs on copyrighted works allows them to generate similar works that compete with the originals",已由材料支持,无
+FACTS_007,G06,Getty Images主张Stable Diffusion为商业产品且损害原作市场反对合理使用,P25,"Stable Diffusion is a commercial product, weighing against fair use under the first statutory factor, and that the program undermines the market for the original works, weighing against fair use under the fourth factor",已由材料支持,无
+FACTS_007,G07,2023年9月法院裁定需陪审团审理以确定复制Westlaw案例摘要训练AI是否构成合理使用,P26,"a jury would need to resolve factual disputes concerning whether the use was ""transformative"" (factor 1), to what extent the nature of the plaintiff's work favored fair use (factor 2), whether the defendant copied more than needed to train the AI program (factor 3), and whether the AI program would constitute a ""market substitute"" for Westlaw (factor 4)",已由材料支持,无
+FACTS_007,G08,法院认定该使用无疑是商业性的,P26,"the defendant's use was ""undoubtedly commercial""",已由材料支持,无

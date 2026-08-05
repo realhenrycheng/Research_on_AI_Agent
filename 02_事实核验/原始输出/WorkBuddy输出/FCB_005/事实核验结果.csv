@@ -1,0 +1,2 @@
+﻿测试编号,编号,原子事实或待判断文本,是否应核验,判断,证据标题,证据链接,最小必要修正,不确定性说明
+FCB_005,C01,"Autonomous buildings are equipped with their own system for waste management.",是,正确,Autonomous building - Wikipedia,https://en.wikipedia.org/wiki/Autonomous_building,无需修改,"waste management主要指污水/废水处理；若解读为固体废弃物管理则证据较弱。维基百科条目有需补充引用和需更新的标注。"

@@ -1,0 +1,2 @@
+测试编号,编号,原子事实或待判断文本,是否应核验,判断,证据标题,证据链接,最小必要修正,不确定性说明
+FCB_003,C01,"Is there something else you would like to know about the gender of the first female US President?",否,无法判断,Presidents | The White House,https://www.whitehouse.gov/about-the-white-house/presidents/,无需修改（非陈述句不适用事实修正）,"句子可核验性分类：非陈述句（疑问句）。该文本不构成可核验事实陈述，无需也无法进行事实核验。文本中隐含预设'the first female US President'与事实不符（美国历史上从未有过女性总统），但预设本身不等于显性事实陈述。"

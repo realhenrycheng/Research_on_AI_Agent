@@ -1,0 +1,22 @@
+﻿测试编号,编号,关键结论,段落编号,英文原文引句,判断,材料边界说明
+FACTS_003,G01,材料把这项技术比作可推动其他发明和发现的基础性发明。,P01,"another such invention",已由材料支持,无
+FACTS_003,G02,GPT-4 等生成式系统正在改变知识生产方式并执行复杂任务。,P02,"generate original content, perform complex tasks and solve important problems",已由材料支持,无
+FACTS_003,G03,材料列出错误信息、偏见和歧视等风险。,P03,"generating false information, reinforcing bias and discrimination",已由材料支持,无
+FACTS_003,G04,材料列出生物武器和网络攻击相关风险。,P03,"make a bioweapon or conduct a cyber attack",已由材料支持,无
+FACTS_003,G05,材料称这项技术有助于癌症、气候和粮食不安全等挑战。,P04,"from curing cancer to mitigating the effects of climate change to solving global food insecurity",已由材料支持,无
+FACTS_003,G06,未来走向取决于如何使用和治理。,P05,"not whether to use it, but how",已由材料支持,无
+FACTS_003,G07,美国称自己有能力和责任领导治理。,P06,"ability and responsibility to lead on its governance",已由材料支持,无
+FACTS_003,G08,已有行动包括自动化系统权利蓝图和风险管理框架。,P07,"automated systems are designed and used",已由材料支持,无
+FACTS_003,G09,拜登总统宣布公司承诺以提升安全、安保和信任。,P08,"enhance safety, security and trust",已由材料支持,无
+FACTS_003,G10,公司承诺包括降低滥用风险。,P08,"mitigate risks of AI including misuse",已由材料支持,无
+FACTS_003,G11,公司承诺包括区分人类与系统生成内容。,P08,"distinguish between human and AI-generated content",已由材料支持,无
+FACTS_003,G12,公司承诺包括报告系统能力和限制。,P08,"report on systems' capabilities and limitations",已由材料支持,无
+FACTS_003,G13,G7 广岛进程可能推动国际行为准则。,P10,"an international code of conduct for private actors and governments",已由材料支持,无
+FACTS_003,G14,国内方法会在美欧贸易和技术委员会等论坛协调。,P10,"US-EU Trade and Technology Council",已由材料支持,无
+FACTS_003,G15,美国期待参加英国全球安全峰会。,P11,"UK's Global Summit on AI Safety",已由材料支持,无
+FACTS_003,G16,发展中国家的声音被称为全球讨论的关键。,P12,"developing countries, whose voices are crucial",已由材料支持,无
+FACTS_003,G17,印度将通过全球伙伴关系发挥关键作用。,P12,"India will play a critical role, including through the Global Partnership on AI",已由材料支持,无
+FACTS_003,G18,材料称这项技术可帮助推进联合国可持续发展目标。,P13,"just 12 per cent of the UN's Sustainable Development Goals",已由材料支持,无
+FACTS_003,G19,作者认为必须迅速且依靠国际社会集体行动。,P14,"combined focus, ingenuity and co-operation",已由材料支持,无
+FACTS_003,G20,文章署名为美国国务卿和美国商务部长。,P15,"US secretary of state and US secretary of commerce",已由材料支持,无
+

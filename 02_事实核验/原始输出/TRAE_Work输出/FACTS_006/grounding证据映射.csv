@@ -1,0 +1,11 @@
+测试编号,编号,关键结论,段落编号,英文原文引句,判断,材料边界说明
+FACTS_006,G01,第一条法则：有需要的客户才是真正的客户，产品差异不大时服务质量须有巨大差异,P01,"When there is not much difference between your product and the product of your competitor, there needs to be a BIG difference in the quality of service you provide your customer.",已由材料支持,无
+FACTS_006,G02,第二条法则：聘用具备良好客户服务技能的员工，态度等于100%,P01,"ATTITUDE IS A LITTLE THING THAT MAKES A BIG DIFFERENCE",已由材料支持,无
+FACTS_006,G03,第三条法则：培训员工了解门店政策，管理者应以身作则,P01,"BE THE EXAMPLE FOR YOUR EMPLOYEES TO EMULATE. DON'T ASK YOUR EMPLOYEES TO DO SOMETHING YOU WOULDN'T.",已由材料支持,无
+FACTS_006,G04,第四条法则：交叉培训员工，为员工提供学习机会,P01,"Provide opportunities for employees to learn.",已由材料支持,无
+FACTS_006,G05,第五条法则：培训员工如何与客户建立融洽关系,P01,"Teach your employees how to create excellent customer service through human interaction",已由材料支持,无
+FACTS_006,G06,第六条法则：了解并使用客户的名字，让客户感到重要,P02,"MAKE ME FEEL IMPORTANT",已由材料支持,无
+FACTS_006,G07,第七条法则：培训员工如何提问开放式问题,P02,"Open-ended questions are questions that encourage people to talk about whatever is important to them.",已由材料支持,无
+FACTS_006,G08,第八条法则：在帮助客户时灌输紧迫感,P02,"INSTILL A SENSE OF URGENCY IN HELPING CUSTOMERS",已由材料支持,无
+FACTS_006,G09,第九条法则：培训员工如何应对愤怒的客户，永不争辩，倾听客户,P02,"NEVER ARGUE WITH A CUSTOMER. LISTEN! CLOSE YOUR MOUTH AND LISTEN!!",已由材料支持,无
+FACTS_006,G10,第十条法则：不要让愤怒的客户离开门店,P03,"DON'T LET AN ANGRY CUSTOMER LEAVE YOUR STORE",已由材料支持,P01概览列表中第十条表述为UNHAPPY，P03详细章节标题为ANGRY，两处措辞存在差异

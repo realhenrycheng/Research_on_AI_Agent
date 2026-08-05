@@ -1,0 +1,11 @@
+﻿测试编号,编号,关键结论,段落编号,英文原文引句,判断,材料边界说明
+FACTS_009,G01,"鲑鱼 / 孵化场鲑鱼涉及野生与孵化场鱼的遗传差异、ESU 与 ESA 列名争议。",P01,"""Naturally spawned fish are genetically diverse and therefore considered to be more vigorous than the genetically more similar hatchery fish.""",已由材料支持,无
+FACTS_009,G02,"钢头鱼 / 钢头鳟涉及 HLP 对其影响、科学依据和降级有效性的诉讼争议。",P01,"""One suit challenged how the HLP affected steelhead trout.""",已由材料支持,无
+FACTS_009,G03,"Steller sea lions 的西部种群被列为濒危，且围绕捕捞影响存在争议。",P01,"""The western population of Steller sea lions was listed in 1990 as endangered under the ESA""",已由材料支持,无
+FACTS_009,G04,"Pollock 在材料中作为可能因高强度捕捞而局部减少、影响 Steller sea lions 的鱼类之一出现。",P01,"""intense fishing for pollock, Pacific cod, and Atka mackerel off Alaska was causing localized depletion""",已由材料支持,无
+FACTS_009,G05,"Pacific cod 在材料中既属于局部鱼类减少假说涉及的鱼类，也出现在 2010 年捕捞限制中。",P01,"""NMFS restrictions on commercial Atka mackerel and Pacific cod fishing""",已由材料支持,无
+FACTS_009,G06,"Atka mackerel 在材料中既属于局部鱼类减少假说涉及的鱼类，也出现在 2010 年捕捞限制中。",P01,"""NMFS restrictions on commercial Atka mackerel and Pacific cod fishing""",已由材料支持,无
+FACTS_009,G07,"狼 / 灰狼 / 红狼 / 东部狼的材料重点是适应性、分类争议、Canis lycaon 提议及 ESA 保护影响。",P01,"""FWS proposed recognizing a third species of wolf (Canis lycaon), in addition to the gray and red wolf.""",已由材料支持,无
+FACTS_009,G08,"长臂猿只作为 ESA 分类单元保护范围的例子出现。",P01,"""then all of the species of gibbons which belong to that genus are all protected.""",已由材料支持,无
+FACTS_009,G09,"郊狼只作为东部狼分类争议中的杂交证据之一出现。",P01,"""evidence of hybridization with coyotes""",已由材料支持,无
+FACTS_009,G10,"狗、熊、猫只出现在分类派别差异的比喻性引文中。",P01,"""if a carnivore is neither a dog nor a bear they call it a cat.""",已由材料支持,无

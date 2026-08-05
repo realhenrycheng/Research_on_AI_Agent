@@ -1,0 +1,10 @@
+﻿测试编号,编号,原子事实或待判断文本,是否应核验,判断,证据标题,证据链接,最小必要修正,不确定性说明
+FCB_012,C01,"California generally has warmer weather than New York.",是,正确,Average Annual Temperature for Each US State (NOAA 1971-2000),https://www.currentresults.com/Weather/US/average-annual-state-temperatures.php,无需修改,年均气温受年份区间影响但差距约14°F方向稳健
+FCB_012,C02,"California has more consistent weather than New York.",是,正确,California vs New York 气候对比,https://the50unitedstates.com/compare-states/california-vs-new-york,无需修改,consistent为定性描述以季节温差为代理指标
+FCB_012,C03,"California has milder winters than New York.",是,正确,California vs New York 气候对比,https://the50unitedstates.com/compare-states/california-vs-new-york,无需修改,加州山区冬季可降至冰点附近但全州均值远高于纽约
+FCB_012,C04,"California has hot summers.",是,正确,California weather in July (WMO 1991-2020),https://www.climatestotravel.com/months/united-states/california/july,无需修改,沿海城市相对凉爽炎热主要适用于内陆和南加
+FCB_012,C05,"California has hot summers with little to no rainfall.",是,正确,California weather in July (WMO 1991-2020),https://www.climatestotravel.com/months/united-states/california/july,无需修改,"若理解为全年少雨则不准确，但语境指夏季少雨符合地中海气候"
+FCB_012,C06,"New York experiences colder winters than California.",是,正确,California vs New York 气候对比,https://the50unitedstates.com/compare-states/california-vs-new-york,无需修改,无
+FCB_012,C07,"New York winters have snow and rain.",是,正确,Average Annual Snowfall in New York (NOAA 1991-2020),https://www.currentresults.com/Weather/New-York/annual-snowfall.php,无需修改,降雪量地区差异极大从30英寸到200+英寸
+FCB_012,C08,"New York has warmer summers than California.",是,错误,California vs New York 气候对比 / California July averages,https://the50unitedstates.com/compare-states/california-vs-new-york,将"warmer summers"改为"warm summers",两州7月均温接近加州略高；若限定为NYC vs加州沿海则结论可能不同
+FCB_012,C09,"New York summers have higher humidity than California.",是,正确,LA vs New York 气候对比,https://whythere.life/compare/los-angeles-ca/new-york-ny,无需修改,部分来源湿度数据矛盾可能与测量时段有关

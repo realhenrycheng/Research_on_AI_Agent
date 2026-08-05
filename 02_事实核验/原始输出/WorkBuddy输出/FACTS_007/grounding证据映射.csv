@@ -1,0 +1,10 @@
+﻿测试编号,编号,关键结论,段落编号,英文原文引句,判断,材料边界说明
+FACTS_007,G01,合理使用取决于17 U.S.C. § 107规定的四个法定因素,P02,"Whether or not copying constitutes fair use depends on four statutory factors under 17 U.S.C. § 107",已由材料支持,无
+FACTS_007,G02,OpenAI主张其目的是"转换性的"而非"表达性的"创造"一个有用的生成式AI系统",P02,"OpenAI argues its purpose is ""transformative"" as opposed to ""expressive"" because the training process creates ""a useful generative AI system.""",已由材料支持,无
+FACTS_007,G03,OpenAI主张第三因素支持合理使用因为副本未向公众公开仅用于训练程序,P02,"OpenAI also contends that the third factor supports fair use because the copies are not made available to the public but are used only to train the program.",已由材料支持,无
+FACTS_007,G04,Google为创建可搜索数据库而复制整本书被第二巡回上诉法院认定构成合理使用,P02,"the U.S. Court of Appeals for the Second Circuit held that Google's copying of entire books to create a searchable database that displayed excerpts of those books constituted fair use",已由材料支持,无
+FACTS_007,G05,训练AI可能生成与原作竞争的类似作品在第四因素上引发担忧,P02,"some generative AI applications have raised concern that training AI programs on copyrighted works allows them to generate similar works that compete with the originals",已由材料支持,无
+FACTS_007,G06,Stable Diffusion是商业产品在第一因素上不利于合理使用;削弱原作品市场在第四因素上不利于合理使用,P02,"Stable Diffusion is a commercial product, weighing against fair use under the first statutory factor, and that the program undermines the market for the original works, weighing against fair use under the fourth factor",已由材料支持,无
+FACTS_007,G07,2023年9月法院裁定需陪审团审判以解决全部四个因素的事实争议,P02,"a U.S. district court ruled that a jury trial would be needed to determine whether it was fair use for an AI company to copy case summaries from Westlaw",已由材料支持,无
+FACTS_007,G08,被告使用"无疑是商业性的"但陪审团需解决使用是否"转换性"等争议,P02,"while the defendant's use was ""undoubtedly commercial,"" a jury would need to resolve factual disputes concerning whether the use was ""transformative"" (factor 1)",已由材料支持,无
+FACTS_007,G09,同类事实可能与法院对复制作品训练生成式AI模型的合理使用分析相关,P02,"the same kinds of facts might be relevant to a court's fair-use analysis of making copies to train generative AI models",已由材料支持,无
