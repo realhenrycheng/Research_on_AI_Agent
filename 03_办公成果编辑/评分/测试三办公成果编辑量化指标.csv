@@ -1,0 +1,7 @@
+﻿平台,测试编号,文件可打开,工作表保留率,答案区单元格数,与参考答案一致单元格数,与参考答案一致率,公式一致单元格数,参考答案公式单元格数,公式一致率,相对输入变更单元格数,说明字数,错误,文件大小,图表数量,系列总数,系列名称,是否折线图,是否设置缺失值为空缺,图表XML
+ChatGPT Work,OEDIT_001,True,1.0,9955,9922,0.9966850828729282,1139,1165,0.9776824034334763,32,1006,,,,,,,,
+ChatGPT Work,OEDIT_002,True,1.0,,,,,,,,822,,15900,0,0,,False,False,
+WorkBuddy,OEDIT_001,True,1.0,9955,9908,0.9952787543947765,1131,1165,0.9708154506437768,36,4018,,,,,,,,
+WorkBuddy,OEDIT_002,True,1.0,,,,,,,,2247,,16673,1,4,'Sheet3'!D1；'Sheet3'!E1；'Sheet3'!F1；'Sheet3'!G1,True,True,xl/charts/chart1.xml;
+TRAE Work,OEDIT_001,False,0,0,0,0,0,0,0,0,0,"ParseError('unbound prefix: line 1, column 835869')",,,,,,,
+TRAE Work,OEDIT_002,True,1.0,,,,,,,,596,,18166,1,4,'Sheet3'!D1；'Sheet3'!E1；'Sheet3'!F1；'Sheet3'!G1,True,True,xl/charts/chart1.xml;

@@ -1,0 +1,28 @@
+﻿平台,测试编号,上下文分层,题目质量分
+ChatGPT Work,FACTS_001,短上下文,9.95
+ChatGPT Work,FACTS_002,短上下文,9.2
+ChatGPT Work,FACTS_003,短上下文,8.85
+ChatGPT Work,FACTS_004,中等上下文,4.8
+ChatGPT Work,FACTS_005,中等上下文,10.0
+ChatGPT Work,FACTS_006,中等上下文,9.6
+ChatGPT Work,FACTS_007,长上下文,9.0
+ChatGPT Work,FACTS_008,长上下文,9.85
+ChatGPT Work,FACTS_009,长上下文,9.5
+WorkBuddy,FACTS_001,短上下文,9.65
+WorkBuddy,FACTS_002,短上下文,9.15
+WorkBuddy,FACTS_003,短上下文,8.35
+WorkBuddy,FACTS_004,中等上下文,9.57
+WorkBuddy,FACTS_005,中等上下文,9.43
+WorkBuddy,FACTS_006,中等上下文,9.53
+WorkBuddy,FACTS_007,长上下文,9.75
+WorkBuddy,FACTS_008,长上下文,9.77
+WorkBuddy,FACTS_009,长上下文,9.83
+TRAE Work,FACTS_001,短上下文,9.72
+TRAE Work,FACTS_002,短上下文,9.53
+TRAE Work,FACTS_003,短上下文,9.47
+TRAE Work,FACTS_004,中等上下文,9.32
+TRAE Work,FACTS_005,中等上下文,10.0
+TRAE Work,FACTS_006,中等上下文,9.88
+TRAE Work,FACTS_007,长上下文,9.05
+TRAE Work,FACTS_008,长上下文,9.21
+TRAE Work,FACTS_009,长上下文,9.7

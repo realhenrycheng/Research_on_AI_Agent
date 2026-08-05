@@ -1,0 +1,7 @@
+测试编号,平台,平台输出目录,模型或模式,总耗时,总耗时秒,积分或额度,上下文用量,人工干预次数,是否重跑,正式轮次,输出目录,交付文件是否齐全,文件是否可打开,备注
+OEDIT_001,ChatGPT Work,ChatGPT_Work输出,5.5中，标准,7分55秒98,,,,0,否,是,F:\GitHub\AI_Agent\03_办公成果编辑\原始输出\ChatGPT_Work输出\OEDIT_001,,,
+OEDIT_002,ChatGPT Work,ChatGPT_Work输出,5.6中，标准,9分56秒63,,,,0,否,是,F:\GitHub\AI_Agent\03_办公成果编辑\原始输出\ChatGPT_Work输出\OEDIT_002,,,
+OEDIT_001,WorkBuddy,WorkBuddy输出,auto+max,13分28秒53,,155.04,46.2K/168K,0,否,是,F:\GitHub\AI_Agent\03_办公成果编辑\原始输出\WorkBuddy输出\OEDIT_001,,,
+OEDIT_002,WorkBuddy,WorkBuddy输出,auto+max,11分4秒66,,159.65,117.3K/168K,0,否,是,F:\GitHub\AI_Agent\03_办公成果编辑\原始输出\WorkBuddy输出\OEDIT_002,,,
+OEDIT_001,TRAE Work,TRAE_Work输出,auto,5分8秒38,,53.77,,0,否,是,F:\GitHub\AI_Agent\03_办公成果编辑\原始输出\TRAE_Work输出\OEDIT_001,,,
+OEDIT_002,TRAE Work,TRAE_Work输出,auto,2分17秒55,,21.77,,0,否,是,F:\GitHub\AI_Agent\03_办公成果编辑\原始输出\TRAE_Work输出\OEDIT_002,,,
