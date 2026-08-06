@@ -1,0 +1,15 @@
+测试,平台,得分,总耗时秒,备注
+测试一_智谱专题研究,ChatGPT Work,92.81,449.03,主测试质量最高
+测试一_智谱专题研究,TRAE Work,88.64,285.44,主测试速度最快
+测试一_智谱专题研究,WorkBuddy_HY3,83.68,893.74,HY3基线
+测试一_WorkBuddy复测,WorkBuddy_Auto_MAX,91.25,459.48,强配置复测
+测试一_WorkBuddy复测,WorkBuddy_DeepSeek_V4_Flash_MAX,90.00,290.40,强配置复测
+测试二_Factcheck_GPT,WorkBuddy,60.02,2228.65,综合略高
+测试二_Factcheck_GPT,ChatGPT Work,59.55,1470.05,耗时最短
+测试二_Factcheck_GPT,TRAE Work,57.50,2328.76,可核验性判断失分
+测试二_FACTS_Grounding,TRAE Work,95.88,963.89,主评分第一
+测试二_FACTS_Grounding,WorkBuddy,93.34,1394.15,质量接近TRAE
+测试二_FACTS_Grounding,ChatGPT Work,90.43,1029.70,证据保守
+测试三_办公成果编辑,WorkBuddy,92.10,1473.19,交付最稳
+测试三_办公成果编辑,ChatGPT Work,65.05,1072.61,图表失败
+测试三_办公成果编辑,TRAE Work,51.80,445.93,文件可用性风险

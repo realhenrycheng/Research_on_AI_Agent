@@ -1,0 +1,8 @@
+测试,平台,质量或主评分,记录积分,积分变异系数,关系判断
+测试二_Factcheck_GPT,WorkBuddy,60.02,323.74,67.27%,积分波动大且与质量没有稳定正相关
+测试二_Factcheck_GPT,TRAE Work,57.50,307.46,41.98%,积分波动低于WorkBuddy但仍不能解释质量
+测试二_FACTS_Grounding,WorkBuddy,93.34,174.96,66.09%,积分消耗和波动高于TRAE
+测试二_FACTS_Grounding,TRAE Work,95.88,105.85,32.69%,积分更低且波动更小
+测试三_办公成果编辑,WorkBuddy,92.10,314.69,未计算,质量最高但成本最高
+测试三_办公成果编辑,TRAE Work,51.80,75.54,未计算,成本低但交付风险抵消效率优势
+测试一_WorkBuddy复测,WorkBuddy_Auto_MAX,91.25,170.98,未计算,强配置质量提升但上下文接近上限

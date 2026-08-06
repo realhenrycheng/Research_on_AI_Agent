@@ -1,6 +1,11 @@
-# 不上传大型本地基准数据
-/测试三/SpreadsheetBench-v2/
+# 不上传大型本地基准数据和临时提取文件
 /03_办公成果编辑/SpreadsheetBench2数据/
+/04_腾讯生态/L1_能力层_模拟/01_资料包/MuDABench_中文企业资料库分析/
+**/_tmp_extract/
+
+# 公开基准原始资料通常体积较大，保留在本地，不进入 Git
+*.pdf
+*.png
 
 # Office 临时锁文件
 ~$*

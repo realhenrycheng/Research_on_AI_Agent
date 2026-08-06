@@ -1,0 +1,11 @@
+场景,推荐平台,备选平台,不推荐或需谨慎,理由
+高质量行业研究初稿,ChatGPT Work,WorkBuddy_Auto_MAX,WorkBuddy_HY3,ChatGPT Work主测试质量最高且最均衡
+快速调研和材料补充,TRAE Work,ChatGPT Work,WorkBuddy_HY3,TRAE Work速度最快且引用结构较好
+大范围资料覆盖,WorkBuddy_Auto_MAX,WorkBuddy_DeepSeek_V4_Flash_MAX,TRAE Work,WorkBuddy强配置下覆盖和质量明显提升
+保守事实核验,ChatGPT Work,WorkBuddy,TRAE Work,ChatGPT Work证据引用较保守且耗时最低
+给定材料Grounding,TRAE Work,WorkBuddy,ChatGPT Work,TRAE Work在FACTS Grounding主评分第一
+长上下文证据核查,WorkBuddy,ChatGPT Work,TRAE Work,WorkBuddy覆盖较强但仍需检查段落编号
+复杂表格公式修复,ChatGPT Work,WorkBuddy,TRAE Work,ChatGPT Work在OEDIT_001公式和值最接近参考答案
+办公文件综合交付,WorkBuddy,ChatGPT Work,TRAE Work,WorkBuddy在测试三综合表现最好
+低成本快速办公产出,TRAE Work,WorkBuddy,ChatGPT Work,TRAE Work速度和积分消耗低但必须做文件可用性检查
+成本可预测场景,TRAE Work,ChatGPT Work,WorkBuddy,TRAE Work积分波动低于WorkBuddy

@@ -1,0 +1,1292 @@
+[
+    {
+        "question":  "针对中国A股市场，请你给出你知识库中2022年资本充足率最高的三家公司股票代码及其资本充足率",
+        "metadata":  [
+                         {
+                             "symbol":  "002807",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  13.9,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "fecf73fc-a7e7-4fe9-930d-3f2bcdddfebc",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "002839",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  13.13,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "0c4976a7-561a-40c4-81ec-cd08951a989f",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "002936",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  12.72,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "03196333-d6df-495c-b356-8be7ac477948",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "002958",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  13.18,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "595f7c36-3d7e-405e-9852-a765f4a5957a",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "002966",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  12.92,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "22017421-2d78-468e-b94c-486193d9ba37",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "600000",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  13.65,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "87d328aa-58ea-4d1f-bce4-fc6506f2a172",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "600015",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  13.27,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "9c767b67-b513-424a-8151-d7a299086d43",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "600919",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  13.07,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "92c81e9e-fc35-490a-bc5e-73c6efbbb2fd",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601288",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  17.2,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "a9842a60-3d03-41a5-b7ed-508d0f1a658f",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601328",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  14.97,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "547b1faa-07c0-4721-a513-0a2f5a7fc79d",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601398",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  19.26,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "26a9e175-46a0-461d-8142-15e994d112c6",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601577",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  13.41,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "e47688be-7d0c-4b9e-996c-0b8de20e72b0",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601665",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  14.47,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "ca914a75-c6ac-4c4f-8cdc-757764189493",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601825",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  15.46,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "d63aed55-7654-4dbc-9a15-116279ddaf5d",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601838",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  13.15,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "1e035494-1011-43e1-b553-fdde00191c68",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601939",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  18.42,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "6e416195-0ce7-463b-aabc-aa1e21941140",
+                             "doctype":  "A股年报"
+                         }
+                     ],
+        "source_answer":  [
+                              "根据2022年数据，股票代码002807的资本充足率为13.90%",
+                              "根据2022年数据，股票代码002839的资本充足率为13.13%",
+                              "根据2022年数据，股票代码002936的资本充足率为12.72%",
+                              "根据2022年数据，股票代码002958的资本充足率为13.18%",
+                              "根据2022年数据，股票代码002966的资本充足率为12.92%",
+                              "根据2022年数据，股票代码600000的资本充足率为13.65%",
+                              "根据2022年数据，股票代码600015的资本充足率为13.27%",
+                              "根据2022年数据，股票代码600919的资本充足率为13.07%",
+                              "根据2022年数据，股票代码601288的资本充足率为17.20%",
+                              "根据2022年数据，股票代码601328的资本充足率为14.97%",
+                              "根据2022年数据，股票代码601398的资本充足率为19.26%",
+                              "根据2022年数据，股票代码601577的资本充足率为13.41%",
+                              "根据2022年数据，股票代码601665的资本充足率为14.47%",
+                              "根据2022年数据，股票代码601825的资本充足率为15.46%",
+                              "根据2022年数据，股票代码601838的资本充足率为13.15%",
+                              "根据2022年数据，股票代码601939的资本充足率为18.42%"
+                          ],
+        "final_answer":  "根据2022年数据分析，资本充足率最高的三家公司分别是：股票代码601398，资本充足率为19.26%；股票代码601939，资本充足率为18.42%；股票代码601288，资本充足率为17.20%。",
+        "question_id":  "q_8b4f852a15496a80"
+    },
+    {
+        "question":  "针对中国A股市场，请你按样本标准差口径计算你知识库中营业总成本从2021年到2022年标准差的变化量是多少？",
+        "metadata":  [
+                         {
+                             "symbol":  "600919",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  37363070000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。"
+                                        },
+                             "id":  "ecb07c1f-0a3b-4d98-a3ba-1079c40d9374",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "600919",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  37896448000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。"
+                                        },
+                             "id":  "92c81e9e-fc35-490a-bc5e-73c6efbbb2fd",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "000001",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  49581000000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。"
+                                        },
+                             "id":  "32665e4b-8664-4715-8305-2700f0bd0d41",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "000001",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  51114000000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。"
+                                        },
+                             "id":  "c5564849-638e-4efb-a065-a2f4f618f5dd",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "603466",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  2327149068.86,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。"
+                                        },
+                             "id":  "1d36429a-38d2-461b-b36c-030d75309688",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "603466",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  1494888659.26,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。"
+                                        },
+                             "id":  "0815eb06-7578-4449-9163-42d18d168d21",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "600000",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  131777000000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。"
+                                        },
+                             "id":  "4c09f923-19a5-4264-9759-82d09a968e0c",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "600000",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  132349000000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。"
+                                        },
+                             "id":  "87d328aa-58ea-4d1f-bce4-fc6506f2a172",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "300144",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  964551921.05,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。"
+                                        },
+                             "id":  "b6ad554e-43c1-4d9d-b3bf-eaf27bae2c2b",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "300144",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  661377049.76,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。"
+                                        },
+                             "id":  "4879a9ad-5b40-49bd-b7c7-ac6a023b1d27",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "001227",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  6273145824.34,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。"
+                                        },
+                             "id":  "23e84ab0-fdaf-423f-988e-2ad174e0f78d",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "001227",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  5753927315.78,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。"
+                                        },
+                             "id":  "d0d73785-59bc-4bde-b37c-dfc1ca9698c4",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "002839",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  3239006323.23,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。"
+                                        },
+                             "id":  "08bb9178-7daa-40d3-b8df-601920a6df2c",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "002839",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  3049564247.17,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。"
+                                        },
+                             "id":  "0c4976a7-561a-40c4-81ec-cd08951a989f",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "600016",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  132662000000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。"
+                                        },
+                             "id":  "15ede4ac-1c8e-41ef-8566-535ce116ade0",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "600016",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  105056000000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。"
+                                        },
+                             "id":  "12cacaf9-1e38-4250-baa7-89fc2d3bd1c9",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601998",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  138988000000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。"
+                                        },
+                             "id":  "ef51d955-bfa6-4146-b89b-4bdc94ad5b60",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601998",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  138074000000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。"
+                                        },
+                             "id":  "9945becf-7ad5-4112-9108-dce7025712ea",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "600926",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  18780792000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。"
+                                        },
+                             "id":  "491f4a34-51ed-40ff-a3c9-61e6a8a3bdb8",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "600926",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  19938260000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。"
+                                        },
+                             "id":  "125d607e-1823-49ce-b8b5-28d3b42f1cf5",
+                             "doctype":  "A股年报"
+                         }
+                     ],
+        "source_answer":  [
+                              "股票代码600919在2021年的营业总成本为37363070000.00元，2022年的营业总成本为37896448000.00元",
+                              "股票代码000001在2021年的营业总成本为49581000000.00元，2022年的营业总成本为51114000000.00元",
+                              "股票代码603466在2021年的营业总成本为2327149069.00元，2022年的营业总成本为1494888659.00元",
+                              "股票代码600000在2021年的营业总成本为131777000000.00元，2022年的营业总成本为132349000000.00元",
+                              "股票代码300144在2021年的营业总成本为964551921.10元，2022年的营业总成本为661377049.80元",
+                              "股票代码001227在2021年的营业总成本为6273145824.00元，2022年的营业总成本为5753927316.00元",
+                              "股票代码002839在2021年的营业总成本为3239006323.00元，2022年的营业总成本为3049564247.00元",
+                              "股票代码600016在2021年的营业总成本为132662000000.00元，2022年的营业总成本为105056000000.00元",
+                              "股票代码601998在2021年的营业总成本为138988000000.00元，2022年的营业总成本为138074000000.00元",
+                              "股票代码600926在2021年的营业总成本为18780792000.00元，2022年的营业总成本为19938260000.00元"
+                          ],
+        "final_answer":  "按样本标准差口径计算，根据2021年到2022年数据分析，营业总成本标准差的变化量为-5376285341069.46元。",
+        "question_id":  "q_94d121e79aa245a6"
+    },
+    {
+        "question":  "针对中国A股市场，请你给出你知识库中2021-2022年资本增长率最快三家公司的股票代码和增长率是？",
+        "metadata":  [
+                         {
+                             "symbol":  "002948",
+                             "year":  2021,
+                             "value_capital_adequacy_ratio_pct":  15.83,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "0182c5aa-5609-4e6e-a8d1-73d073a47b55",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "002948",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  13.56,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "7b803cf7-965d-424b-8fc0-bb3478949154",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "002958",
+                             "year":  2021,
+                             "value_capital_adequacy_ratio_pct":  13.07,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "b75dff20-40ae-4718-88c0-43a058c4d8b4",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "002958",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  13.18,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "595f7c36-3d7e-405e-9852-a765f4a5957a",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "600000",
+                             "year":  2021,
+                             "value_capital_adequacy_ratio_pct":  14.01,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "4c09f923-19a5-4264-9759-82d09a968e0c",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "600000",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  13.65,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "87d328aa-58ea-4d1f-bce4-fc6506f2a172",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "600016",
+                             "year":  2021,
+                             "value_capital_adequacy_ratio_pct":  13.64,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "15ede4ac-1c8e-41ef-8566-535ce116ade0",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "600016",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  13.14,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "12cacaf9-1e38-4250-baa7-89fc2d3bd1c9",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "600919",
+                             "year":  2021,
+                             "value_capital_adequacy_ratio_pct":  13.38,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "ecb07c1f-0a3b-4d98-a3ba-1079c40d9374",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "600919",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  13.07,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "92c81e9e-fc35-490a-bc5e-73c6efbbb2fd",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "600928",
+                             "year":  2021,
+                             "value_capital_adequacy_ratio_pct":  14.12,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "13e5c957-00a2-4132-9af5-ca07f9a22cbb",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "600928",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  12.84,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "401e03e0-7790-47c2-a321-e058953fec15",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601166",
+                             "year":  2021,
+                             "value_capital_adequacy_ratio_pct":  14.39,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "d54797f6-89e4-4451-8718-7142aa3b2501",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601166",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  14.44,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "7743e8e2-07ec-4768-9c31-6fb763072d99",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601860",
+                             "year":  2021,
+                             "value_capital_adequacy_ratio_pct":  15.2,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "2af7421a-b3a8-40d3-8b59-ad61eeea3a44",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601860",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  14.35,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "b8c8e479-83df-4442-b059-1307487c5b9a",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601916",
+                             "year":  2021,
+                             "value_capital_adequacy_ratio_pct":  12.89,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "19f71d32-fb60-471c-8ae0-8b788f8064c7",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601916",
+                             "year":  2022,
+                             "value_capital_adequacy_ratio_pct":  11.6,
+                             "schema":  {
+                                            "value_capital_adequacy_ratio_pct":  "资本充足率。"
+                                        },
+                             "id":  "913bea97-6e08-422c-8690-bab0f94e7dd9",
+                             "doctype":  "A股年报"
+                         }
+                     ],
+        "source_answer":  [
+                              "股票代码002948在2021年到2022年期间的资本充足率增长率为-0.14%，其中2021年资本充足率为15.83%，2022年资本充足率为13.56%",
+                              "股票代码002958在2021年到2022年期间的资本充足率增长率为0.01%，其中2021年资本充足率为13.07%，2022年资本充足率为13.18%",
+                              "股票代码600000在2021年到2022年期间的资本充足率增长率为-0.03%，其中2021年资本充足率为14.01%，2022年资本充足率为13.65%",
+                              "股票代码600016在2021年到2022年期间的资本充足率增长率为-0.04%，其中2021年资本充足率为13.64%，2022年资本充足率为13.14%",
+                              "股票代码600919在2021年到2022年期间的资本充足率增长率为-0.02%，其中2021年资本充足率为13.38%，2022年资本充足率为13.07%",
+                              "股票代码600928在2021年到2022年期间的资本充足率增长率为-0.09%，其中2021年资本充足率为14.12%，2022年资本充足率为12.84%",
+                              "股票代码601166在2021年到2022年期间的资本充足率增长率为0.00%，其中2021年资本充足率为14.39%，2022年资本充足率为14.44%",
+                              "股票代码601860在2021年到2022年期间的资本充足率增长率为-0.06%，其中2021年资本充足率为15.20%，2022年资本充足率为14.35%",
+                              "股票代码601916在2021年到2022年期间的资本充足率增长率为-0.10%，其中2021年资本充足率为12.89%，2022年资本充足率为11.60%"
+                          ],
+        "final_answer":  "根据2021年到2022年数据分析，资本增长率最快的三家公司分别是：股票代码002958，增长率为0.01%；股票代码601166，增长率为0.00%；股票代码600919，增长率为-0.02%。",
+        "question_id":  "q_f71028b35b269648"
+    },
+    {
+        "question":  "针对中国A股市场，请你给出你知识库中2022年第一大股东持股比例前三的公司股票代码和持股比率",
+        "metadata":  [
+                         {
+                             "symbol":  "000681",
+                             "year":  2022,
+                             "value_largest_shareholder_holding_ratio_pct":  12.66,
+                             "schema":  {
+                                            "value_largest_shareholder_holding_ratio_pct":  "第一大股东持股比例。"
+                                        },
+                             "id":  "2491a889-6056-4052-8c45-ca1103e80b9d",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "002807",
+                             "year":  2022,
+                             "value_largest_shareholder_holding_ratio_pct":  4.31,
+                             "schema":  {
+                                            "value_largest_shareholder_holding_ratio_pct":  "第一大股东持股比例。"
+                                        },
+                             "id":  "fecf73fc-a7e7-4fe9-930d-3f2bcdddfebc",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "300860",
+                             "year":  2022,
+                             "value_largest_shareholder_holding_ratio_pct":  41.86,
+                             "schema":  {
+                                            "value_largest_shareholder_holding_ratio_pct":  "第一大股东持股比例。"
+                                        },
+                             "id":  "d90dc011-6707-46b8-ada2-f5ff1f5beee8",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "600000",
+                             "year":  2022,
+                             "value_largest_shareholder_holding_ratio_pct":  21.57,
+                             "schema":  {
+                                            "value_largest_shareholder_holding_ratio_pct":  "第一大股东持股比例。"
+                                        },
+                             "id":  "87d328aa-58ea-4d1f-bce4-fc6506f2a172",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "600036",
+                             "year":  2022,
+                             "value_largest_shareholder_holding_ratio_pct":  18.05,
+                             "schema":  {
+                                            "value_largest_shareholder_holding_ratio_pct":  "第一大股东持股比例。"
+                                        },
+                             "id":  "7c77192e-2e0a-476e-a352-92a6ddc6c78e",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "600576",
+                             "year":  2022,
+                             "value_largest_shareholder_holding_ratio_pct":  36.93,
+                             "schema":  {
+                                            "value_largest_shareholder_holding_ratio_pct":  "第一大股东持股比例。"
+                                        },
+                             "id":  "0f0f90f6-9718-4ab8-95dc-3c44e4896f0d",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601077",
+                             "year":  2022,
+                             "value_largest_shareholder_holding_ratio_pct":  22.13,
+                             "schema":  {
+                                            "value_largest_shareholder_holding_ratio_pct":  "第一大股东持股比例。"
+                                        },
+                             "id":  "0e66a2e5-66a6-4b3f-8d04-dd7e03914f97",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601128",
+                             "year":  2022,
+                             "value_largest_shareholder_holding_ratio_pct":  9.01,
+                             "schema":  {
+                                            "value_largest_shareholder_holding_ratio_pct":  "第一大股东持股比例。"
+                                        },
+                             "id":  "4fa3770c-9bee-4154-a4d6-7f289fbd94bc",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601187",
+                             "year":  2022,
+                             "value_largest_shareholder_holding_ratio_pct":  18.27,
+                             "schema":  {
+                                            "value_largest_shareholder_holding_ratio_pct":  "第一大股东持股比例。"
+                                        },
+                             "id":  "2d8cbadc-2eba-455d-98a7-43347457688a",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601288",
+                             "year":  2022,
+                             "value_largest_shareholder_holding_ratio_pct":  40.03,
+                             "schema":  {
+                                            "value_largest_shareholder_holding_ratio_pct":  "第一大股东持股比例。"
+                                        },
+                             "id":  "a9842a60-3d03-41a5-b7ed-508d0f1a658f",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601328",
+                             "year":  2022,
+                             "value_largest_shareholder_holding_ratio_pct":  23.88,
+                             "schema":  {
+                                            "value_largest_shareholder_holding_ratio_pct":  "第一大股东持股比例。"
+                                        },
+                             "id":  "547b1faa-07c0-4721-a513-0a2f5a7fc79d",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601658",
+                             "year":  2022,
+                             "value_largest_shareholder_holding_ratio_pct":  67.39,
+                             "schema":  {
+                                            "value_largest_shareholder_holding_ratio_pct":  "第一大股东持股比例。"
+                                        },
+                             "id":  "f47bd611-7a2a-469a-be6d-0eb2f6a12ea3",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601916",
+                             "year":  2022,
+                             "value_largest_shareholder_holding_ratio_pct":  21.41,
+                             "schema":  {
+                                            "value_largest_shareholder_holding_ratio_pct":  "第一大股东持股比例。"
+                                        },
+                             "id":  "913bea97-6e08-422c-8690-bab0f94e7dd9",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601988",
+                             "year":  2022,
+                             "value_largest_shareholder_holding_ratio_pct":  64.02,
+                             "schema":  {
+                                            "value_largest_shareholder_holding_ratio_pct":  "第一大股东持股比例。"
+                                        },
+                             "id":  "5161446e-e3dc-48bc-bc1c-7384cfb11f07",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601998",
+                             "year":  2022,
+                             "value_largest_shareholder_holding_ratio_pct":  65.37,
+                             "schema":  {
+                                            "value_largest_shareholder_holding_ratio_pct":  "第一大股东持股比例。"
+                                        },
+                             "id":  "9945becf-7ad5-4112-9108-dce7025712ea",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "603466",
+                             "year":  2022,
+                             "value_largest_shareholder_holding_ratio_pct":  28.31,
+                             "schema":  {
+                                            "value_largest_shareholder_holding_ratio_pct":  "第一大股东持股比例。"
+                                        },
+                             "id":  "0815eb06-7578-4449-9163-42d18d168d21",
+                             "doctype":  "A股年报"
+                         }
+                     ],
+        "source_answer":  [
+                              "股票代码000681在2022年的第一大股东持股比率为12.58%",
+                              "股票代码002807在2022年的第一大股东持股比率为4.18%",
+                              "股票代码300860在2022年的第一大股东持股比率为41.84%",
+                              "股票代码600000在2022年的第一大股东持股比率为21.57%",
+                              "股票代码600036在2022年的第一大股东持股比率为18.05%",
+                              "股票代码600576在2022年的第一大股东持股比率为36.93%",
+                              "股票代码601077在2022年的第一大股东持股比率为22.13%",
+                              "股票代码601128在2022年的第一大股东持股比率为9.01%",
+                              "股票代码601187在2022年的第一大股东持股比率为18.27%",
+                              "股票代码601288在2022年的第一大股东持股比率为40.03%",
+                              "股票代码601328在2022年的第一大股东持股比率为23.88%",
+                              "股票代码601658在2022年的第一大股东持股比率为67.39%",
+                              "股票代码601916在2022年的第一大股东持股比率为21.41%",
+                              "股票代码601988在2022年的第一大股东持股比率为64.02%",
+                              "股票代码601998在2022年的第一大股东持股比率为65.37%",
+                              "股票代码603466在2022年的第一大股东持股比率为27.07%"
+                          ],
+        "final_answer":  "根据2022年数据分析，第一大股东持股比例前三的公司分别是：股票代码601658，持股比率为67.39%；股票代码601998，持股比率为65.37%；股票代码601988，持股比率为64.02%。",
+        "question_id":  "q_1cee7495a18b0867"
+    },
+    {
+        "question":  "针对中国A股市场，请给出2021-2022年间净利润或营业总成本变化超过你知识库均值两倍的异常公司股票代码，以及它们的变化情况。",
+        "metadata":  [
+                         {
+                             "symbol":  "600576",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  192422050.58,
+                             "value_net_profit_cny":  17432579.34,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "b7a194a1-c9cc-42a0-bf41-6e596690c5f2",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "600576",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  287109200.53,
+                             "value_net_profit_cny":  15516774.24,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "0f0f90f6-9718-4ab8-95dc-3c44e4896f0d",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "000001",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  49581000000.0,
+                             "value_net_profit_cny":  36336000000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "32665e4b-8664-4715-8305-2700f0bd0d41",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "000001",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  51114000000.0,
+                             "value_net_profit_cny":  45516000000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "c5564849-638e-4efb-a065-a2f4f618f5dd",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "002948",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  7912963000.0,
+                             "value_net_profit_cny":  2993213000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "0182c5aa-5609-4e6e-a8d1-73d073a47b55",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "002948",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  8516372000.0,
+                             "value_net_profit_cny":  3167525000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "7b803cf7-965d-424b-8fc0-bb3478949154",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601860",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  2724653000.0,
+                             "value_net_profit_cny":  1515204000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "2af7421a-b3a8-40d3-8b59-ad61eeea3a44",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601860",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  1798673000.0,
+                             "value_net_profit_cny":  1600177000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "b8c8e479-83df-4442-b059-1307487c5b9a",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601988",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  329428000000.0,
+                             "value_net_profit_cny":  227339000000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "877fadba-3dba-4c0d-ab39-05c03631d5b2",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601988",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  333313000000.0,
+                             "value_net_profit_cny":  237504000000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "5161446e-e3dc-48bc-bc1c-7384cfb11f07",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601229",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  32671895000.0,
+                             "value_net_profit_cny":  22080368000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "8d13cedb-d1e3-4c61-88ff-1595d47fc040",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601229",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  29087219000.0,
+                             "value_net_profit_cny":  22317928000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "3e5fe14d-020b-427e-bc5a-093205b27e20",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "002958",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  3121487000.0,
+                             "value_net_profit_cny":  3092067000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "b75dff20-40ae-4718-88c0-43a058c4d8b4",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "002958",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  7839621000.0,
+                             "value_net_profit_cny":  2346449000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "595f7c36-3d7e-405e-9852-a765f4a5957a",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601997",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  8208404000.0,
+                             "value_net_profit_cny":  6255915000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "41f01ab9-a5d5-4cb0-a88a-3509f62837a4",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601997",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  8833900000.0,
+                             "value_net_profit_cny":  6246201000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "62c6519e-9223-4b6d-9cb8-002c86754342",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601998",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  138988000000.0,
+                             "value_net_profit_cny":  56377000000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "ef51d955-bfa6-4146-b89b-4bdc94ad5b60",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601998",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  138074000000.0,
+                             "value_net_profit_cny":  62950000000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "9945becf-7ad5-4112-9108-dce7025712ea",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "002966",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  6849806258.0,
+                             "value_net_profit_cny":  3287289789.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "4fee0dee-739a-428e-a4a8-aa28ff0cac00",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "002966",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  6766933743.0,
+                             "value_net_profit_cny":  4116698157.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "22017421-2d78-468e-b94c-486193d9ba37",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "002839",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  3239006323.23,
+                             "value_net_profit_cny":  1336571707.74,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "08bb9178-7daa-40d3-b8df-601920a6df2c",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "002839",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  3049564247.17,
+                             "value_net_profit_cny":  1698628288.47,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "0c4976a7-561a-40c4-81ec-cd08951a989f",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601128",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  4950740000.0,
+                             "value_net_profit_cny":  2341210000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "1d5373e0-3985-4cde-896e-a30e4c3c3f22",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601128",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  5445128000.0,
+                             "value_net_profit_cny":  2926888000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "4fa3770c-9bee-4154-a4d6-7f289fbd94bc",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "000681",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  565151944.8,
+                             "value_net_profit_cny":  154711282.21,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "9ef77f6c-c658-418c-bb19-e924f08fe8dc",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "000681",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  625245179.0,
+                             "value_net_profit_cny":  99705462.14,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "2491a889-6056-4052-8c45-ca1103e80b9d",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "300592",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  2092617951.04,
+                             "value_net_profit_cny":  -81951659.31,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "5f464382-8d76-466f-973b-002f2999709f",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "300592",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  4125842108.35,
+                             "value_net_profit_cny":  243826801.68,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "392df067-d3c5-420e-9715-686f60f2ca55",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601009",
+                             "year":  2021,
+                             "value_total_operating_cost_cny":  21738069000.0,
+                             "value_net_profit_cny":  15965742000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "3b8a705b-5854-4a57-8e67-42e14d31ce20",
+                             "doctype":  "A股年报"
+                         },
+                         {
+                             "symbol":  "601009",
+                             "year":  2022,
+                             "value_total_operating_cost_cny":  22815584000.0,
+                             "value_net_profit_cny":  18543956000.0,
+                             "schema":  {
+                                            "value_total_operating_cost_cny":  "营业总成本。",
+                                            "value_net_profit_cny":  "净利润。"
+                                        },
+                             "id":  "1e8159b8-9959-4ae6-8d79-1cec517e3d1e",
+                             "doctype":  "A股年报"
+                         }
+                     ],
+        "source_answer":  [
+                              "股票代码600576在2021年到2022年期间，净利润变化率为-0.28%，营业总成本变化率为0.51%",
+                              "股票代码000001在2021年到2022年期间，净利润变化率为0.25%，营业总成本变化率为0.03%",
+                              "股票代码002948在2021年到2022年期间，净利润变化率为0.06%，营业总成本变化率为0.08%",
+                              "股票代码601860在2021年到2022年期间，净利润变化率为0.06%，营业总成本变化率为-0.06%",
+                              "股票代码601988在2021年到2022年期间，净利润变化率为0.04%，营业总成本变化率为0.01%",
+                              "股票代码601229在2021年到2022年期间，净利润变化率为0.01%，营业总成本变化率为-0.11%",
+                              "股票代码002958在2021年到2022年期间，净利润变化率为-0.24%，营业总成本变化率为0.13%",
+                              "股票代码601997在2021年到2022年期间，净利润变化率为-0.00%，营业总成本变化率为0.08%",
+                              "股票代码601998在2021年到2022年期间，净利润变化率为0.12%，营业总成本变化率为-0.01%",
+                              "股票代码002966在2021年到2022年期间，净利润变化率为0.25%，营业总成本变化率为-0.01%",
+                              "股票代码002839在2021年到2022年期间，净利润变化率为0.27%，营业总成本变化率为-0.06%",
+                              "股票代码601128在2021年到2022年期间，净利润变化率为0.25%，营业总成本变化率为0.10%",
+                              "股票代码000681在2021年到2022年期间，净利润变化率为-0.36%，营业总成本变化率为0.11%",
+                              "股票代码300592在2021年到2022年期间，净利润变化率为-3.98%，营业总成本变化率为0.97%",
+                              "股票代码601009在2021年到2022年期间，净利润变化率为0.16%，营业总成本变化率为0.05%"
+                          ],
+        "final_answer":  "根据2021年到2022年数据分析，净利润或营业总成本变化超过均值两倍的异常公司情况如下：股票代码600576，净利润变化率-0.28%，营业总成本变化率0.51%；股票代码000001，净利润变化率0.25%，营业总成本变化率0.03%；股票代码002948，净利润变化率0.06%，营业总成本变化率0.08%；股票代码601860，净利润变化率0.06%，营业总成本变化率-0.06%；股票代码601988，净利润变化率0.04%，营业总成本变化率0.01%；股票代码601229，净利润变化率0.01%，营业总成本变化率-0.11%；股票代码002958，净利润变化率-0.24%，营业总成本变化率0.13%；股票代码601997，净利润变化率-0.00%，营业总成本变化率0.08%；股票代码601998，净利润变化率0.12%，营业总成本变化率-0.01%；股票代码002966，净利润变化率0.25%，营业总成本变化率-0.01%；股票代码002839，净利润变化率0.27%，营业总成本变化率-0.06%；股票代码601128，净利润变化率0.25%，营业总成本变化率0.10%；股票代码000681，净利润变化率-0.36%，营业总成本变化率0.11%；股票代码300592，净利润变化率-3.98%，营业总成本变化率0.97%；股票代码601009，净利润变化率0.16%，营业总成本变化率0.05%。",
+        "question_id":  "q_8c4b0ec7dceb6858"
+    },
+    {
+        "question":  "针对中国A股市场，在你的知识库中2023年，ESG报告中披露了环境和可持续发展信息的所有公司股票代码是什么？",
+        "metadata":  [
+                         {
+                             "symbol":  "001227",
+                             "year":  2023,
+                             "value_environment_protection_disclosed":  true,
+                             "schema":  {
+                                            "value_environment_protection_disclosed":  "是否披露环境和可持续发展信息。"
+                                        },
+                             "id":  "a5e8a870-ec23-4ad9-8eea-c9829668bfdc",
+                             "doctype":  "A股ESG报告"
+                         },
+                         {
+                             "symbol":  "002142",
+                             "year":  2023,
+                             "value_environment_protection_disclosed":  true,
+                             "schema":  {
+                                            "value_environment_protection_disclosed":  "是否披露环境和可持续发展信息。"
+                                        },
+                             "id":  "65fd87e2-524c-4449-8254-3a4c4efd8f72",
+                             "doctype":  "A股ESG报告"
+                         },
+                         {
+                             "symbol":  "002807",
+                             "year":  2023,
+                             "value_environment_protection_disclosed":  true,
+                             "schema":  {
+                                            "value_environment_protection_disclosed":  "是否披露环境和可持续发展信息。"
+                                        },
+                             "id":  "82f3ce8e-e27f-4d83-9485-4cebe461ba24",
+                             "doctype":  "A股ESG报告"
+                         },
+                         {
+                             "symbol":  "600016",
+                             "year":  2023,
+                             "value_environment_protection_disclosed":  true,
+                             "schema":  {
+                                            "value_environment_protection_disclosed":  "是否披露环境和可持续发展信息。"
+                                        },
+                             "id":  "0ceee2f0-14da-4866-8421-e975d9afe703",
+                             "doctype":  "A股ESG报告"
+                         },
+                         {
+                             "symbol":  "600908",
+                             "year":  2023,
+                             "value_environment_protection_disclosed":  true,
+                             "schema":  {
+                                            "value_environment_protection_disclosed":  "是否披露环境和可持续发展信息。"
+                                        },
+                             "id":  "1fb0d2e5-405c-4710-b179-1e01b2251c91",
+                             "doctype":  "A股ESG报告"
+                         },
+                         {
+                             "symbol":  "600928",
+                             "year":  2023,
+                             "value_environment_protection_disclosed":  true,
+                             "schema":  {
+                                            "value_environment_protection_disclosed":  "是否披露环境和可持续发展信息。"
+                                        },
+                             "id":  "8f9653cc-4e0f-4f4e-af09-fa74b81e918b",
+                             "doctype":  "A股ESG报告"
+                         },
+                         {
+                             "symbol":  "601187",
+                             "year":  2023,
+                             "value_environment_protection_disclosed":  true,
+                             "schema":  {
+                                            "value_environment_protection_disclosed":  "是否披露环境和可持续发展信息。"
+                                        },
+                             "id":  "1512fc7c-e185-4f78-b6c4-11de3b04ae36",
+                             "doctype":  "A股ESG报告"
+                         },
+                         {
+                             "symbol":  "601997",
+                             "year":  2023,
+                             "value_environment_protection_disclosed":  true,
+                             "schema":  {
+                                            "value_environment_protection_disclosed":  "是否披露环境和可持续发展信息。"
+                                        },
+                             "id":  "00bfc177-34dd-4dd9-b282-3a8320703117",
+                             "doctype":  "A股ESG报告"
+                         },
+                         {
+                             "symbol":  "601998",
+                             "year":  2023,
+                             "value_environment_protection_disclosed":  true,
+                             "schema":  {
+                                            "value_environment_protection_disclosed":  "是否披露环境和可持续发展信息。"
+                                        },
+                             "id":  "4ae2aa2c-5c0d-4dd1-8fac-0abaab59ad9f",
+                             "doctype":  "A股ESG报告"
+                         },
+                         {
+                             "symbol":  "603323",
+                             "year":  2023,
+                             "value_environment_protection_disclosed":  true,
+                             "schema":  {
+                                            "value_environment_protection_disclosed":  "是否披露环境和可持续发展信息。"
+                                        },
+                             "id":  "4551a093-15f5-4139-a8d5-9166005ca40c",
+                             "doctype":  "A股ESG报告"
+                         }
+                     ],
+        "source_answer":  [
+                              "证券代码001227在2023年披露了环境和可持续发展信息",
+                              "证券代码002142在2023年披露了环境和可持续发展信息",
+                              "证券代码002807在2023年披露了环境和可持续发展信息",
+                              "证券代码600016在2023年披露了环境和可持续发展信息",
+                              "证券代码600908在2023年披露了环境和可持续发展信息",
+                              "证券代码600928在2023年披露了环境和可持续发展信息",
+                              "证券代码601187在2023年披露了环境和可持续发展信息",
+                              "证券代码601997在2023年披露了环境和可持续发展信息",
+                              "证券代码601998在2023年披露了环境和可持续发展信息",
+                              "证券代码603323在2023年披露了环境和可持续发展信息"
+                          ],
+        "final_answer":  "根据2023年环境披露数据，披露了环境和可持续发展信息的公司股票代码为：001227、002142、002807、600016、600908、600928、601187、601997、601998、603323",
+        "question_id":  "q_c9b656fafc4ce47a"
+    }
+]
